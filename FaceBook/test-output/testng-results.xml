@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12339" started-at="2016-07-27T16:35:23Z" finished-at="2016-07-27T16:35:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12339" started-at="2016-07-27T16:35:23Z" finished-at="2016-07-27T16:35:35Z">
+      <class name="com.nlsinc.java.FaceBook.FaceBookTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.nlsinc.java.FaceBook.FaceBookTest@59fa1d9b]" name="beforeClass" is-config="true" duration-ms="12" started-at="2016-07-27T11:35:23Z" finished-at="2016-07-27T11:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:com.nlsinc.java.FaceBook.FaceBookTest@59fa1d9b]" name="driverInitialization" duration-ms="8551" started-at="2016-07-27T11:35:23Z" finished-at="2016-07-27T11:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="RegistationsValues()[pri:1, instance:com.nlsinc.java.FaceBook.FaceBookTest@59fa1d9b]" name="RegistationsValues" duration-ms="3721" started-at="2016-07-27T11:35:31Z" finished-at="2016-07-27T11:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistationsValues -->
+      </class> <!-- com.nlsinc.java.FaceBook.FaceBookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
